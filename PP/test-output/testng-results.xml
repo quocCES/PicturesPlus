@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8939" started-at="2017-07-25T09:41:47Z" finished-at="2017-07-25T09:41:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8939" started-at="2017-07-25T09:41:47Z" finished-at="2017-07-25T09:41:56Z">
+      <class name="TestModules.TM_ReadyMadeFrames">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestModules.TM_ReadyMadeFrames@64729b1e]" name="beforeTest" is-config="true" duration-ms="7845" started-at="2017-07-25T16:41:47Z" finished-at="2017-07-25T16:41:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Filter()[pri:0, instance:TestModules.TM_ReadyMadeFrames@64729b1e]" name="Filter" duration-ms="962" started-at="2017-07-25T16:41:55Z" finished-at="2017-07-25T16:41:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Filter -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestModules.TM_ReadyMadeFrames@64729b1e]" name="afterTest" is-config="true" duration-ms="76" started-at="2017-07-25T16:41:56Z" finished-at="2017-07-25T16:41:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestModules.TM_ReadyMadeFrames -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
