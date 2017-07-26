@@ -14,7 +14,7 @@ public class TM_ReadyMadeFrames {
 	
 	@BeforeTest
   	public void beforeTest() {
-		System.setProperty("webdriver.chrome.driver", "/home/code-engine-studio/Downloads/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "/home/code-engine-studio/selenium/chromedriver");
 		driver = new ChromeDriver();
 		String baseUrl = "https://picturesplus.com/frame-it/ready-made-frames/";
 		driver.get(baseUrl);
